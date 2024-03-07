@@ -9,8 +9,7 @@ class DIO {
         int SomaDigitos = 0;
       
         // Lê o número inteiro da entrada do usuário
-        string input = Console.ReadLine();
-        
+        string input = Console.ReadLine()
         // Converte a entrada em números inteiros e calcula o produto e a soma
             int[] num = new int[input.Length];
         
