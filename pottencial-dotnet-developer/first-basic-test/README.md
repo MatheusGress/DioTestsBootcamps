@@ -20,6 +20,6 @@ X = A - B
 ### Saída: 
 "15"
 
-
-### Link do teste:
+##
+#### Link do teste:
 [Dio teste "Subtraindo o produto e a soma de um número inteiro"](https://web.dio.me/coding/desafios-basicos-c-pottencial/algorithm/subtraindo-o-produto-e-a-soma-de-um-numero-inteiro?back=/track/pottencial-net-developer&tab=undefined&moduleId=undefined)
