@@ -7,7 +7,7 @@ A entrada consiste em um número inteiro.
 # Saída
 A saída consiste na multiplicação do produto dos dígitos, a soma de seus dígitos e a diferenção entre o produto e a soma.
 
-## Explicação: 
+## Exemplo: 
 
 ### Entrada: 
 "234"
