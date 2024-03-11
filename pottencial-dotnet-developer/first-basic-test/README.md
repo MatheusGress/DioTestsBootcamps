@@ -12,6 +12,11 @@ A saída consiste na multiplicação do produto dos dígitos, a soma de seus dí
 ### Entrada: 
 "234"
 
+#### Soma:
+A = 2 * 3 * 4
+B = 2 + 3 + 4
+X = A - B
+
 ### Saída: 
 "15"
 
