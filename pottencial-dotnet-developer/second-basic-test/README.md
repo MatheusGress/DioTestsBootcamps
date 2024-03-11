@@ -7,7 +7,7 @@ A entrada consiste de vários casos de teste. A primeira linha de entrada conté
 # Saída
 Para cada caso de entrada imprima uma mensagem indicando se o segundo valor encaixa no primeiro valor.
 
-## Explicação: 
+## Exemplo: 
 
 ### Entrada: 
 4
