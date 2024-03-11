@@ -21,4 +21,4 @@ Resultado = 24 - 9 = 15
 
 
 ### Link do teste:
-[Dio_Primeiro_Teste_Basico](https://web.dio.me/coding/desafios-basicos-c-pottencial/algorithm/subtraindo-o-produto-e-a-soma-de-um-numero-inteiro?back=/track/pottencial-net-developer&tab=undefined&moduleId=undefined)
+[Dio teste "Subtraindo o produto e a soma de um número inteiro"](https://web.dio.me/coding/desafios-basicos-c-pottencial/algorithm/subtraindo-o-produto-e-a-soma-de-um-numero-inteiro?back=/track/pottencial-net-developer&tab=undefined&moduleId=undefined)
