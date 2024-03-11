@@ -9,15 +9,11 @@ A saída consiste na multiplicação do produto dos dígitos, a soma de seus dí
 
 ## Explicação: 
 
-### Entrada: "234"
+### Entrada: 
+"234"
 
-Produto de dígitos = 2 * 3 * 4 = 24
-
-Soma dos dígitos = 2 + 3 + 4 = 9
-
-Resultado = 24 - 9 = 15
-
-### Saída: "15"
+### Saída: 
+"15"
 
 
 ### Link do teste:
